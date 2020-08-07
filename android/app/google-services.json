@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249272469349",
+    "firebase_url": "https://u-pitch.firebaseio.com",
+    "project_id": "u-pitch",
+    "storage_bucket": "u-pitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249272469349:android:98eb23c4b04eb1fbc7038c",
+        "android_client_info": {
+          "package_name": "com.example.upitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249272469349-386eivuu4cbgian295jg5k957j46hod1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJfoYnPyymqk45Ymh7hNt-PURFmvjTUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249272469349-386eivuu4cbgian295jg5k957j46hod1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
